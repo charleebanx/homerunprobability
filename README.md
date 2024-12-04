@@ -14,6 +14,6 @@ BRM x EVA x LAM_SW x BPTA
 
 This is the first model or version of this calculator and will be improved overtime
 Date created: 8/2/2024
-Latest modification date: 8/5/2024
+Latest modification date: 8/12/2024
 
 Refer to the documentation and results file for more information!
